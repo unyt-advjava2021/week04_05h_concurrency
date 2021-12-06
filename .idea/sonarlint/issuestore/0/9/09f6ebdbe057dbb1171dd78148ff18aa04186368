@@ -1,0 +1,33 @@
+
+>
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8ä»±Ò/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ô©™8ä»±Ò/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‚®ãºøÿÿÿÿ8¿’ĞÒ/
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ç¯ß8¼ªœÒ/
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8ä»±Ò/
+Q
+java:S1874'"/Remove this use of "getDate"; it is deprecated.(‚¢êñşÿÿÿÿ8õóÒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ±Ÿ8¼‡„Ò/
+L
+java:S1874%"/Remove this use of "getYear"; it is deprecated.(Ïª¨Ò8¼‡„Ò/
+]
+java:S1128";Remove this unused import 'java.util.concurrent.Executors'.(äåÒÛÿÿÿÿÿ8¬ÔÓÒ/
+s
+java:S3457,"Q%n should be used in place of \n to produce the platform-specific line separator.(ÇĞ¬Ôøÿÿÿÿ8ˆÎÉÒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¼äíüÿÿÿÿ8‘æÌÒ/
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ÇĞ¬Ôøÿÿÿÿ8¼‡„Ò/
+T
+java:S1874)"2Remove this use of "getMinutes"; it is deprecated.(ø†¨ûşÿÿÿÿ8¼‡„Ò/
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(ÏÂ†¯8•ğ£œÒ/
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(Çë¹Äùÿÿÿÿ8•ğ£œÒ/
+O
+java:S1874*"2Remove this use of "getSeconds"; it is deprecated.(ôÏùŞ8¼‡„Ò/
+c
+java:S1128"ARemove this unused import 'java.util.concurrent.ExecutorService'.(æ÷–£ùÿÿÿÿ8¬ÔÓÒ/
+M
+java:S1874("0Remove this use of "getHours"; it is deprecated.(ùœÂ®8¼‡„Ò/
+R
+java:S1874&"0Remove this use of "getMonth"; it is deprecated.(«ßÔ—úÿÿÿÿ8¼‡„Ò/
+D
+java:S11444"'Remove this unused private "go" method.(âñ¸Ì8ÏÖ’Ò/
